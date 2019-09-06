@@ -1,0 +1,38 @@
+
+Baseline tiempo fijo
+30 autos con dijstra
+tiempo
+
+
+Prop 1 calculando cuantos en la calle
+30 autos con dijstra
+tiempo
+
+
+
+contador en cada semaforo
+poner un tiempo max y min
+
+y depende de cuantos enla calles
+
+
+
+delimitar el problema
+intro y estado de arte una cada una
+
+metodos tecnicas, las junto caso base(sin sincroniacion), camaras contar autos pagina y media
+implementacion breve imagen una columna
+
+
+resultados pagina y media con dos columnas
+
+1 imagenes visual
+2 sumatorias tiempo
+3 paradas
+
+
+discusiones una columna
+limitaciones (puntos debiles), trabajos fututos , dos vias por cada calles
+
+
+conclusiones 10 lineas 2 lineas de lo bueno
